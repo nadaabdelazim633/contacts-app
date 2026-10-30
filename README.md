@@ -1,6 +1,6 @@
 # Contacts App
 
-A Flutter contacts manager built for the **Route Mobile Diploma**. Users can add contacts with a profile photo, browse them in a grid, and delete them.
+A Flutter contacts manager built for the **Route Mobile App Diploma**. Users can add contacts with a profile photo, browse them in a grid, and delete them.
 
 ## Features
 
