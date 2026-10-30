@@ -1,6 +1,6 @@
 ## 🎬 Project Demo
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Bs0Y3ngCO1SBYc6UHu6d72D8pnjqAR6/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Bs0Y3ngqCO1SBYc6UHu6d72D8pnjqAR6/view?usp=drive_link" target="_blank">
     <img src="../screenshots/Splash.png" alt="Demo Video" width="80%"/>
   </a>
 </p>
