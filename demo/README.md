@@ -4,4 +4,4 @@
     <img src="../screenshots/Splash.png" alt="Demo Video" width="80%"/>
   </a>
 </p>
-<p align="center"><em>اضغط على الصورة لمشاهدة الديمو على Google Drive</em></p>
+<p align="center"><em>Click to watch the screen recording</em></p>
