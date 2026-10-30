@@ -22,7 +22,7 @@ A Flutter contacts manager built for the **Route Mobile Diploma**. Users can add
 
 ## Demo
 
-[Watch the screen recording](testing%20the%20app.mp4)
+[Watch the screen recording](https://drive.google.com/file/d/1Bs0Y3ngqCO1SBYc6UHu6d72D8pnjqAR6/view?usp=sharing)
 
 ## Tech Stack
 
